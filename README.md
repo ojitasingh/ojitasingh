@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ojita Singh</h1>
-<h3 align="center">Passionate CSE Graduate from India , skilled in Java , Python, FrontEnd and Machine learning</h3>
+<h3 align="center">Python | Machine Learning | Java | CSE'26 Data Science, Machine Learning, and Neural Networks| Python, Java – HackerRank | Cisco & Udemy Certified | Enthusiastic Developer | Frontend & Backend Projects | Data Science & AI Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ojitasingh&label=Profile%20views&color=0e75b6&style=flat" alt="ojitasingh" /> </p>
 
