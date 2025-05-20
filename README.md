@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **ojitalko2019@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17UrR2h81no8-LPVsJDtPdTCnE70gfEjj/view?usp=drive_link](https://drive.google.com/file/d/17UrR2h81no8-LPVsJDtPdTCnE70gfEjj/view?usp=drive_link)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ojita-singh-b286771aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ojita-singh-b286771aa" height="30" width="40" /></a>
