@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/17UrR2h81no8-LPVsJDtPdTCnE70gfEjj/view?usp=drive_link](https://drive.google.com/file/d/17UrR2h81no8-LPVsJDtPdTCnE70gfEjj/view?usp=drive_link)
 
-- ⚡ Fun fact **I am Potterhead⚡Forever and Always**
+- ⚡ Fun fact **I am a Potterhead⚡Forever and Always**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
