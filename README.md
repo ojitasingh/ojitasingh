@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ojita Singh</h1>
 <h3 align="center">Python | Machine Learning | Java | CSE'26 |DSA| Microsoft, Cisco & Accenture Certified | Competitive Programmer | Frontend Projects | Data Science & AI Enthusiast</h3>
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently working on a **BookStore App** designed using MERN
 
 - 👨‍💻 All of my projects are available at [https://github.com/ojitasingh](https://github.com/ojitasingh)
 
